@@ -13,7 +13,7 @@ int main()
     string line1 = " The hangman game is under construction, maybe you'll get to play it in a few weeks...";
     cout << line1 << endl;
     string line2 = "This is what various stages of the hangman game will look like...";
-    cout << line2 << endl;
+    cout << line2 << endl ;
 
 
     string string[8] = {"|-----------------" , "|/" , "|" , "|" , "|" , "|" , "|", "==========="};
@@ -28,7 +28,7 @@ int main()
         }
         else if( j == 2)
         {
-            string[j] += "                |";
+            string[j] += "                | ";
         }
         else if ( j==3 )
         {

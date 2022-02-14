@@ -20,15 +20,27 @@ using namespace std; //resolve cout, cin, and endl names
 int main()
 {
     //FIXME3: declare a variable to store name
+     string fullName;
+    cout << "Hey what's your name? ";
+    getline (cin, fullName);
+    cout << "Hey " << fullName << "!";
+
     //FIXME4: prompt user to enter their name and store the value in variable
     
     //FIXME5: greet the name using the variable as the following output
     //must output: Nice meeting you, <name>!
 
     cout << "Hope you like my Tom & Jerry ASCII art...\n\n";
-
-    string line1 = "  |\\_/|   **********************    (\\_/)\n";
-    cout << line1;
+    string line1 = "    |\\_/|        **********************       (\\_/)";
+    cout << line1 << endl;
+    string line2 = "   / @ @ \\       *       ASCII Lab    *      (='.'=)";
+    cout << line2 << endl;
+    string line3 = "   (> 0 <)       *  By: Connor Thomas *      (\")_(\")";
+    cout << line3 << endl;
+    string line4 = "    >>x<<        *        CSCI 111    *";
+    cout << line4 << endl;
+    string line5 = "    / O \\        **********************";
+    cout << line5;
 
     //FIXME6: use variable to print the second line line of the graphic
     //FIXME7: print the third line of the graphics

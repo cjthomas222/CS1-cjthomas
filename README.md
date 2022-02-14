@@ -16,13 +16,13 @@
 
 ### Assignment #1
 
-| Name | Value |
+| Name | Connor Thomas |
 | :--- | :--- |
 | Name | Hello World |
 | Description | A basic hello world program |
 | Due Date | 1-Jan-20 |
 | Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git|
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
@@ -34,7 +34,7 @@
 | Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
 | Due Date | 1-Feb-2020 |
 | Status | In-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | - |
 | Notes | completed the solution; need to write test cases |
 
@@ -49,6 +49,6 @@
 | Description | Ascii Cat Art |
 | Due Date | 02-Feb-11 |
 | Status | Finished|
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/labs/cpp/stdio |
-| Self Grade | 90/100 |
-| Notes | I couldnt figure out how to put the location on the readme.md file |
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | I couldnt figure out how to put the location on the readme.md file |3
