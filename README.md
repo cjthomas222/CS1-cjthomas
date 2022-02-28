@@ -45,10 +45,36 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Conner Thomas |
+| Name | Connor Thomas |
 | Description | Ascii Cat Art |
 | Due Date | 02-Feb-11 |
 | Status | Finished|
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 100/100 |
 | Notes | I couldnt figure out how to put the location on the readme.md file |3
+
+### Lab #2
+| Name | Value |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Circle |
+| Due Date | 02-Feb-21 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Pretty easy lab, feel good about it |3
+
+
+## Homework
+
+### Homework #1 Hangman
+
+| Name | Value |
+| :--- | :--- |
+| Name | Conner Thomas |
+| Description | Hangman |
+| Due Date | 02-Feb-11 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Did everything the file asked me too |3
