@@ -64,6 +64,18 @@
 | Self Grade | 100/100 |
 | Notes | Pretty easy lab, feel good about it |3
 
+### Lab #2
+| Name | functions |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | program that finds the distance between 2 2d points |
+| Due Date | 03/07/21 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Pretty easy lab, feel good about it |3
+
+
 
 ## Homework
 
@@ -71,10 +83,23 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Conner Thomas |
+| Name | Connor Thomas |
 | Description | Hangman |
 | Due Date | 02-Feb-11 |
 | Status | Finished|
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 100/100 |
 | Notes | Did everything the file asked me too |3
+
+### Homework #1 
+
+| Name | Triangle |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Calculates area and perimeter of a triangle |
+| Due Date | 02-Feb-27 |
+| Status | Finished|
+| Location | https://github.com/cjthomas222/CS1-cjthomas/blob/main/assignments/stdio/triangle/main.cpp
+| Self Grade | 100/100 |
+| Notes | Program prints accurate area and perimeter of a triangle |3
+
