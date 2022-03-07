@@ -17,6 +17,7 @@ Algorithm steps:
 */
 
 #include <iostream>
+#include <iomanip>
 #include <cstdio>
 #include <cassert>
 #include <cmath>
@@ -65,9 +66,12 @@ int main()
         cin >> ch >> x2>> ch>> y2 >> ch;
         printf("(x2, y2) = (%d, %d)\n", x2, y2);
         //FIXME4 - Call test function
-        void test();
+        test();
         //FIXME5 - call findDistance function passing proper arguments
+        double n = findDistance(x1,y1,x2,y2);
         //FIXME6 – Using printf function display the returned distance with proper description
+        printf("The distance between your two points is " );
+        cout << fixed << setprecision(2) << n << endl;
     }
 
     cin.ignore(1000, '\n');
@@ -79,10 +83,15 @@ int main()
 
 double findDistance(int x1, int y1, int x2, int y2)
 {
+    double n;
+
+    n = sqrt(((x2-x1)*(x2-x1)) + ((y2-y1)*(y2-y1)));
+
+    
     // FIXME7 - Find the distance between (x1, y1) and (x2, y2)
     // following the algorithm in step 1
     // return the calculated distance
-    return 0.000000;
+    return n;
 }
 
 // test function that test findDistance function with 3 test cases
@@ -90,7 +99,14 @@ void test()
 {
     float result =  findDistance(4, 3, 5, 1);
     float expected = 2.236067f;
-    assert( fabs(result - expected) <= epsilon); //accept the result if it's less than the error of margin
+    assert( fabs(result - expected) <= epsilon); 
+    float m = findDistance(0,0,1,1);
+    float n = 1.41421f; 
+    assert( fabs(m-n)<= epsilon);
+    float u= findDistance(5,1,6,1);
+    float v =1.000f;
+    assert( fabs(u-v)<= epsilon);
+    //accept the result if it's less than the error of margin
     // FIXME8 - add at least two more test cases
     cerr << "all tests passed..." << endl;
 }
