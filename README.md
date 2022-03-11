@@ -38,6 +38,18 @@
 | Self Grade | - |
 | Notes | completed the solution; need to write test cases |
 
+### Assignment #3
+
+| Name | functions |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | create program that inputs two values and puts them through many math functions |
+| Due Date | 3/11/22 |
+| Status | completed |
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 90 |
+| Notes |program works and runs fine, couldnt figure out how to template |
+
 
 ## Labs
 
