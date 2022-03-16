@@ -76,7 +76,7 @@
 | Self Grade | 100/100 |
 | Notes | Pretty easy lab, feel good about it |3
 
-### Lab #2
+### Lab #3
 | Name | functions |
 | :--- | :--- |
 | Name | Connor Thomas |
@@ -87,6 +87,16 @@
 | Self Grade | 100/100 |
 | Notes | Pretty easy lab, feel good about it |3
 
+### Lab #4
+| Name | functions |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Lab that puts two numbers through several functions|
+| Due Date | 03/15/21 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Challenging, but satisfying in the end|3
 
 
 ## Homework
