@@ -2,46 +2,56 @@
 #include <cstdio>
 #include <string>
 #include <cassert>
- 
-using namespace std;
- 
-void printMenu(void);
- 
-void getTwoNumbers(double &, double &, double &, double &, double &);
- 
-double findSum(const double &, const double &,const double &, const double &,const double &);
- 
-double findProduct(const double &, const double &,const double &, const double &,const double &);
+#include <cmath>
 
-void findAverage(const double &, const double &, double &,const double &, const double &,const double &);
- 
-double findSmaller(const double &, const double &,const double &, const double &,const double &);
- 
-double findFloor(const double &, const double &,const double &, const double &, const double &);
- 
+using namespace std;
+
+void printMenu(void);
+
+void getTwoNumbers(double &, double &, double &, double &, double &);
+
+double findSum(const double &, const double &, const double &, const double &, const double &);
+
+double findProduct(const double &, const double &, const double &, const double &, const double &);
+
+double findAverage(const double &, const double &, const double &, const double &, const double &, const double);
+
+double findSmaller(const double &, const double &, const double &, const double &, const double &);
+
+string findFloor(const double &, const double &, const double &, const double &, const double &);
+
+string name = "";
 
 void test();
 
 bool program();
 
-void clearScreen() {
-    #ifdef _WIN32
-        system("clS");
-    #else
-        system("clear");
-    #endif
+void clearScreen()
+{
+#ifdef _WIN32
+    system("clS");
+#else
+    system("clear");
+#endif
 }
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[])
+{
+    cout << "Hello, what is your name?" << endl;
+    getline(cin, name);
+
     bool keepRunning = true;
-    if(argc == 2 && string(argv[1]) == "test") {
+    if (argc == 2 && string(argv[1]) == "test")
+    {
         test();
         exit(EXIT_SUCCESS);
     }
-    else {
-        while (keepRunning) {
+    else
+    {
+        while (keepRunning)
+        {
             if (!program())
-                break; 
+                break;
             cin.ignore(100, '\n');
             cout << "Enter to continue...";
             cin.get();
@@ -55,171 +65,203 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 
-void printMenu(void) {
+void printMenu(void)
+{
     cout << "Menu options:\n";
-    cout << "[1] Add two numbers\n";
-    cout << "[2] Subtract two numbers\n";
-    cout << "[3] Multiply two numbers\n";
-    cout << "[4] Divide two numbers\n";
-    cout << "[5] Find larger of two numbers\n";
-    cout << "[6] Find smaller of two numbers\n";
-    cout << "[7] Find average of two numbers\n";
-    cout << "[8] Quit the program\n";
-    cout << "Enter one of the menu options [1-8]: ";
+    cout << "[1] Add 5 numbers\n";
+    cout << "[2] Calculates sum of five numbers\n";
+    cout << "[3] Find average of five numbers\n";
+    cout << "[4] Find larger of five numbers\n";
+    cout << "[5] Find smaller of five numbers\n";
+    cout << "[6] Find floor of sum of five numbers\n";
+    cout << "[7] Quit the program\n";
+    cout << "Enter one of the menu options [1-7]: ";
 }
 
-void getTwoNumbers(double &n1, double &n2,double &n3, double &n4,double &n5) {
-    cout << "Enter five numbers separated by a space: ";
+void getFiveNumbers(double &n1, double &n2, double &n3, double &n4, double &n5)
+{
+    cout << "Enter five numbers separated by a space," << name << ": ";
     cin >> n1 >> n2 >> n3 >> n4 >> n5;
 }
 
-double findSum(const double &n1, const double &n2, const double &n3,const double &n4,const double &n5) {
+double findSum(const double &n1, const double &n2, const double &n3, const double &n4, const double &n5)
+{
     return (n1 + n2 + n3 + n4 + n5);
 }
 
-double findProduct(const double &n1, const double &n2, const double &n3,const double &n4,const double &n5) {
+double findProduct(const double &n1, const double &n2, const double &n3, const double &n4, const double &n5)
+{
     return (n1 * n2 * n3 * n4 * n5);
 }
 
-void findAverage(const double &n1, const double &n2, double &avg, const double &n3,const double &n4,const double &n5) {
-    avg = ((n1+n2+n3+n4+n5)/5);
+double findAverage(const double &n1, const double &n2, const double &n3, const double &n4, const double &n5)
+{
+    return ((n1 + n2 + n3 + n4 + n5) / 5);
 }
 
-double findLarger(const double &n1, const double &n2, const double &n3,const double &n4,const double &n5) {
-    double larger = (n1 >= n2 >= n3 >= n4 >= n5 ) ? n1 : n5;
-    return larger;
+double findLarger(const double &num1, const double &num2, const double &num3, const double &num4, const double &num5)
+{
+    if (num1 >= num2 && num1 >= num3 && num1 >= num4 && num1 >= num5)
+    {
+        return num1;
+    }
+    else if (num2 >= num1 && num2 >= num3 && num2 >= num4 && num2 >= num5)
+    {
+        return num2;
+    }
+    else if (num3 >= num1 && num3 >= num2 && num3 >= num4 && num3 >= num5)
+    {
+        return num3;
+    }
+    else if (num4 >= num1 && num4 >= num2 && num4 >= num3 && num4 >= num5)
+    {
+        return num4;
+    }
+    else
+    {
+        return num5;
+    }
 }
-double findDifference(const double &n1, const double &n2) {
-    return (n1 - n2);
+
+double findSmaller(const double &num1, const double &num2, const double &num3, const double &num4, const double &num5)
+{
+    if (num1 <= num2 && num1 <= num3 && num1 <= num4 && num1 <= num5)
+    {
+        return num1;
+    }
+    else if (num2 <= num1 && num2 <= num3 && num2 <= num4 && num2 <= num5)
+    {
+        return num2;
+    }
+    else if (num3 <= num1 && num3 <= num2 && num3 <= num4 && num3 <= num5)
+    {
+        return num3;
+    }
+    else if (num4 <= num1 && num4 <= num2 && num4 <= num3 && num4 <= num5)
+    {
+        return num4;
+    }
+    else
+    {
+        return num5;
+    }
+}
+string findFloor(const double &n1, const double &n2, const double &n3, const double &n4, const double &n5)
+{
+    float total = n1 + n2 + n3 + n4 + n5;
+    int x = floor(total);
+
+    if (x % 2 == 0)
+    {
+        return " Even ";
+    }
+    else if (x % 3 == 0)
+    {
+        return " Odd ";
+    }
+    else
+    {
+        return " Zero ";
+    }
 }
 
-double findProduct(const double &n1, const double &n2) {
-    return (n1 * n2);
-}
+void test()
+{
+    assert(findSum(5, 10.5, 10, 5, 3) == 33.5);
+    assert(findSum(7, 8, 7, 8, 7) == 37);
+    assert(findSum(5, 5, 5, 5, 5) == 25);
 
+    assert(findProduct(10,2,1,2,1) == 40);
+    assert(findProduct(20,4,2,2,1) == 320);
+    assert(findProduct(5,5,4,1,1) == 100);
 
-double findSmaller(const double &n1, const double &n2) {
-    double smaller = (n1 <= n2) ? n1: n2;
-    return smaller;
-}
+    assert(findLarger(20,12,13,8,2) == 20);
+    assert(findLarger(80,99,101,100,20) == 101);
+    assert(findLarger(55,10,25,8,40) == 55);
 
-double findQuotient(const double &n1, const double &n2) {
-    return (n1/n2);
-}
+    assert(findSmaller(20,12,13,8,2) == 2);
+    assert(findSmaller(80,99,101,100,20) == 20);
+    assert(findSmaller(55,10,25,8,40) == 8);
 
-void test() {
-    assert(findSum(-5, 10.5) == 5.5);
-    assert(findSum(7, 8) == 15);
-    assert(findSum(5, 5) == 10);
+    assert(findFloor(5.5,4,4,5,1) == "Odd");
+    assert(findFloor(5,4,3,2,1) == "Odd");
+    assert(findFloor(5.5,6.5,5.49,0,1) == "Even");
 
-    assert(findDifference(10,8) == 2);
-    assert(findDifference(20,12) == 8);
-    assert(findDifference(20.5,9) == 11.5);
-
-    assert(findProduct(10,2) == 20);
-    assert(findProduct(20,4) == 80);
-    assert(findProduct(5,5) == 25);
-
-    double larAnswer = findProduct(5.5,4);
-    double larExpect = 5.5;
-    assert(larAnswer == larExpect);
-    assert(findLarger(20,12) == 20);
-
-    double smaAnswer = findSmaller(5.5,4);
-    double smaExpect = 4;
-    assert(smaAnswer == smaExpect);
-    assert(findSmaller(20,12) == 12);
-
-    double quoAnswer = findQuotient(5,2.5);
-    double quoExpect = 2;
-    assert(quoAnswer == quoExpect);
-    assert(findQuotient(20,4) == 5);
-
-    double avgAnswer = 0;
-    findAverage(20,10,avgAnswer);
-    double avgExpect = 15;
-    assert(avgAnswer == avgExpect);
-    findAverage(36,12,avgAnswer);
-    assert(avgAnswer == 24);
+    assert(findAverage(5,5,5,5,5) == 5);
+    assert(findAverage(10,5,10,5,10) == 8);
+    assert(findAverage(1,1,1,1,1) == 1);
 
     printf("%s\n", "all test cases passed...");
 }
 
-
-bool program() {
+bool program()
+{
     int option = 1;
-    double num1=0, num2=0;
+    double n1 = 0, n2 = 0, n3 = 0, n4 = 0, n5 = 0;
     printMenu();
-    do {
-        if (cin >> option && option >= 1 && option <= 8) {
+    do
+    {
+        if (cin >> option && option >= 1 && option <= 8)
+        {
             break;
         }
-        else {
+        else
+        {
             cin.clear();
             cin.ignore(1000, '\n');
             cout << "Invalid option, please enter a value between 1 and 8" << endl;
         }
     } while (true);
-            
-    switch(option) {
-        case 1:
-        {
-            getTwoNumbers(num1, num2);
-            double sum = findSum(num1, num2);
-            printf("The sum of your numbers is %.2f + %.2f = %.2f\n", num1, num2, sum);
-            break;
-        }
-        case 2:
-        {
-            getTwoNumbers(num1,num2);
-            double sum2 = findDifference(num1, num2);
-            printf("The difference of your numbers is %.2f - %.2f = %.2f\n", num1, num2,sum2);
-            break;
-        }
-        case 3:
-        {
-            getTwoNumbers(num1,num2);
-            double sum3 = findProduct(num1,num2);
-            printf("The product of your numbers is %.2f * %.2f = %.2f\n", num1, num2,sum3);
-            break;
-        }
 
-        case 4:
-        {
-            getTwoNumbers(num1,num2);
-            double sum4 = findQuotient(num1,num2);
-            printf("The quotient of your numbers is %.2f / %.2f = %.2f\n", num1, num2,sum4);
-            break;
-        }
-        
+    switch (option)
+    {
+    case 1:
+    {
+        getFiveNumbers(n1, n2, n3, n4, n5);
+        double sum = findSum(n1, n2, n3, n4, n5);
+        printf("The sum of your numbers is %.2f %.2f + %.2f + %.2f + %.2f= %.2f\n", n1, n2, n3, n4, n5, sum);
+        break;
+    }
+    case 2:
+    {
+        getFiveNumbers(n1, n2, n3, n4, n5);
+        double sum2 = findProduct(n1, n2, n3, n4, n5);
+        printf("The product of your numbers is %.2f * %.2f * %.2f * %.2f * %.2f = %.2f\n", n1, n2, n3, n4, n5, sum2);
+        break;
+    }
+    case 3:
+    {
+        double avg;
+        getFiveNumbers(n1, n2, n3, n4, n5);
+        avg = findAverage(n1, n2, n3, n4, n5);
+        printf("The average of your five numbers is %.2f\n", avg);
+        break;
+    }
 
-        case 5:
-        {
-            getTwoNumbers(num1, num2);
-            double max = findLarger(num1, num2);
-            printf("Larger between %.2f & %.2f is %.2f\n", num1, num2, max);
-            break;
-        }
+    case 4:
+    {
+        getFiveNumbers(n1, n2, n3, n4, n5);
+        double max = findLarger(n1, n2, n3, n4, n5);
+        printf("Your largest number is %.2f\n", max);
+        break;
+    }
 
-        case 6:
-        {
-            getTwoNumbers(num1, num2);
-            double low = findSmaller(num1, num2);
-            printf("Smaller between %.2f & %.2f is %.2f\n", num1, num2, low);
-            break;
-        }
-        
-        case 7:
-        {
-            double avg = 0;
-            getTwoNumbers(num1, num2);
-            findAverage(num1, num2, avg);
-            printf("The average of your two number %.2f\n", avg);
-            break;
-        }
-        case 8:
-        default: 
-            return false;
+    case 5:
+    {
+        getFiveNumbers(n1, n2, n3, n4, n5);
+        double low = findSmaller(n1, n2, n3, n4, n5);
+        printf("Your smallest number is %.2f\n", low);
+        break;
+    }
+
+    case 6:
+    {
+        getFiveNumbers(n1, n2, n3, n4, n5);
+        cout << "The floor of your numbers is" << findFloor(n1, n2, n3, n4, n5);
+    }
+    case 7:
+    default:
+        return false;
     }
     return true;
 }

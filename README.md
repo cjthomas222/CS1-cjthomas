@@ -50,6 +50,19 @@
 | Self Grade | 90 |
 | Notes |program works and runs fine, couldnt figure out how to template |
 
+### Assignment #3
+
+| Name | conditional |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | create program that inputs five values and puts them through many math functions |
+| Due Date | 3/18/22 |
+| Status | completed |
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 90 |
+| Notes |program works and runs fine, couldnt figure out how to template |
+
+
 
 ## Labs
 
