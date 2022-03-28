@@ -111,6 +111,18 @@
 | Self Grade | 100/100 |
 | Notes | Challenging, but satisfying in the end|3
 
+### Lab #5
+| Name | loops |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | lap that prints two triangles and a square from user input|
+| Due Date | 03/27/22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Challenging, didn't know how to do a lot|3
+
+
 
 ## Homework
 
