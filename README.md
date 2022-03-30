@@ -150,3 +150,14 @@
 | Self Grade | 100/100 |
 | Notes | Program prints accurate area and perimeter of a triangle |3
 
+### Homework #3
+
+| Name | Guess Number |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Gives player 6 tried to guess rand number between 1 & 20 |
+| Due Date | 30-Mar-22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Initially had difficultly displaying the correct hints of higher or lower |3
