@@ -122,6 +122,18 @@
 | Self Grade | 100/100 |
 | Notes | Challenging, didn't know how to do a lot|3
 
+### Lab #6
+| Name | pointers |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | introduces dynamic variables and put 2 numbers through math|
+| Due Date | 03/30/22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | pretty simple and straight forward|3
+
+
 
 
 ## Homework
