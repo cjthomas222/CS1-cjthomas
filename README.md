@@ -133,6 +133,17 @@
 | Self Grade | 100/100 |
 | Notes | pretty simple and straight forward|3
 
+### Lab #7
+| Name | strings |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | completes a code challenge by kattis|
+| Due Date | 4/7/22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes |struggled with runtime error, eventually figured it out|3
+
 
 
 
