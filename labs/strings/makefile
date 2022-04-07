@@ -13,6 +13,8 @@ PROGRAM = hissing.exe
 # list .cpp files separated by space
 CPPFILES = hissing.cpp
 
+PROGRAM = hissing.out
+
 # make build rule/default rule that'll be run when we run "make" or make build
 # first compile each file to object file
 # then make a single binary program
@@ -21,16 +23,16 @@ build:
 	$(CXX) -o $(PROGRAM) *.o
 
 run:
-	./$(PROGRAM)
+	./$(hissing.out)
 	
 # make clean rule
 # delete object and binary files
 clean:
-	rm -f $(PROGRAM) *.o
+	rm -f $(hissing.exe) *.o
 
 # run the test cases
 unittest:
-	./$(PROGRAM) test
+	./$(hissing.exe) test
 
 # test the kattis provided samples
 kattis:
