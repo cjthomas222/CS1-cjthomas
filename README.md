@@ -184,3 +184,15 @@
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 100/100 |
 | Notes | Initially had difficultly displaying the correct hints of higher or lower |3
+
+### Homework #3
+
+| Name | Apaxiaaan |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description |  |
+| Due Date | 10-Apr-22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Pretty simple, had to reference some other codes in a couple parts |3
