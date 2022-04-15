@@ -144,6 +144,17 @@
 | Self Grade | 100/100 |
 | Notes |struggled with runtime error, eventually figured it out|3
 
+### Lab #8
+| Name | arrays |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | takes a user selected amount of inputs and puts numbers through various functions|
+| Due Date | 4/15/22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes |struggled with bubble sort, eventually figured it out|3
+
 
 
 
