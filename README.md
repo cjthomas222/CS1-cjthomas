@@ -153,7 +153,7 @@
 | Status | Finished|
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 100/100 |
-| Notes |struggled with bubble sort, eventually figured it out|3
+| Notes |struggled with bubble sort, eventually got it|3
 
 
 
@@ -207,3 +207,15 @@
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 100/100 |
 | Notes | Pretty simple, had to reference some other codes in a couple parts |3
+
+### Homework #4
+
+| Name | Falling apart |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description |  |
+| Due Date | 18-4-22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 75/100 |
+| Notes | Couldn't figure out assert function, got runtime error in kattis even though the code works for all inputs I tried |3
