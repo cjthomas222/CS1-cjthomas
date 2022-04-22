@@ -155,6 +155,17 @@
 | Self Grade | 100/100 |
 | Notes |struggled with bubble sort, eventually got it|3
 
+### Lab #9
+| Name | vector |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | converts decimal to binary, vice versa, and oct to decimal, vice versa|
+| Due Date | 4/22/22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 95/100 |
+| Notes |extremely confusing|3
+
 
 
 
