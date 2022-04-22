@@ -29,10 +29,10 @@ using llu = unsigned long long int;
 #endif
 
 // converts decimal number to binary representation
-void decToBin(llu);
+string decToBin(llu);
 
 // converts binary number to decimal representation
-void binToDec(llu);
+string binToDec(llu);
 
 // converts decimal number to octal representation
 string decToOct(llu);
@@ -57,14 +57,14 @@ int main()
                 // FIXME3 # fixed
                 cout << "Enter a positive decimal number: ";
                 cin >> decimalNum;
-                decToBin(decimalNum);
-                //cout << "13  decimal = " << decimalNum << " binary " << endl;
+                //cout << decToBin(decimalNum) << endl;
+                cout << "Your  decimal = " << decToBin(decimalNum) << " in binary " << endl;
                 break;
             case 2:
-                // FIXME4
+                // FIXME4 #fixed
                 cout << "Enter a binary number: ";
                 cin >> binary;
-                binToDec(binary);
+                cout << "Your binary number in decimal is: " << binToDec(binary) << endl;
                 //cout << "FIXME\n";
                 break;
             case 3:
@@ -94,30 +94,30 @@ int main()
     return 0;
 }
 
-void decToBin(llu num) {
-    // FIXME5 - use algorithm step in Ch03-StdInputOutput chapter
+string decToBin(llu num) {
+    // FIXME5 - use algorithm step in Ch03-StdInputOutput chapter # fixed
     // or use hint from decToOct function
     const int divisor = 2;
     int dividend;
     int quotient, remain;
     string answer;
-    answer = ""; 
+    //answer = ""; 
     quotient = num; 
     while(quotient != 0)
     {
         dividend = quotient;
         remain = dividend%divisor; 
         quotient = dividend/divisor; 
-        cout << dividend << '/' << divisor << " => quotient: " << quotient << " remainder: " << remain << endl;
-        answer = to_string(remain) + answer; 
+        //cout << dividend << '/' << divisor << " => quotient: " << quotient << " remainder: " << remain << endl;
+        answer += to_string(remain); 
     }
-
-    cout << "Your decimal = " << answer << " binary " << endl;
+    return answer;
+    //cout << "Your decimal = " << answer << " binary " << endl;
 }
 
-void binToDec(llu binary)
+string binToDec(llu binary)
 {
-    // FIXME6 - use algorithm described in Ch03-StdInputOutput chapter
+    // FIXME6 - use algorithm described in Ch03-StdInputOutput chapter # fixed
     // or use hints from binToOct function
 int dec = 0, i = 0, rem;
 
@@ -127,8 +127,8 @@ int dec = 0, i = 0, rem;
     dec += rem * pow(2, i);
     ++i;
   }
-    cout << dec << endl;
-    //return binary;
+    //cout << dec << endl;
+    return to_string(dec);
 }
 
 string decToOct(llu num)
