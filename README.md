@@ -12,9 +12,9 @@
 | **GitHub Username**         | gituser123 |
 | **Repository**          | https://github.com/rambasnet/csci000-astudent |
 
-## Assignments
+## Homework
 
-### Assignment #1
+### Homework #1
 
 | Name | Connor Thomas |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 | Self Grade | 100/100 |
 | Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
 
-### Assignment #2
+### Homework #2
 
 | Name | Value |
 | :--- | :--- |
@@ -38,7 +38,7 @@
 | Self Grade | - |
 | Notes | completed the solution; need to write test cases |
 
-### Assignment #3
+### Homework #3
 
 | Name | functions |
 | :--- | :--- |
@@ -50,7 +50,7 @@
 | Self Grade | 90 |
 | Notes |program works and runs fine, couldnt figure out how to template |
 
-### Assignment #3
+### Homework #3
 
 | Name | conditional |
 | :--- | :--- |
@@ -61,6 +61,80 @@
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 90 |
 | Notes |program works and runs fine, couldnt figure out how to template |
+
+### Homework #4 Hangman
+
+| Name | Value |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Hangman |
+| Due Date | 02-Feb-11 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Did everything the file asked me too |3
+
+### Homework #5 
+
+| Name | Triangle |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Calculates area and perimeter of a triangle |
+| Due Date | 02-Feb-27 |
+| Status | Finished|
+| Location | https://github.com/cjthomas222/CS1-cjthomas/blob/main/assignments/stdio/triangle/main.cpp
+| Self Grade | 100/100 |
+| Notes | Program prints accurate area and perimeter of a triangle |3
+
+### Homework #6
+
+| Name | Guess Number |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | Gives player 6 tried to guess rand number between 1 & 20 |
+| Due Date | 30-Mar-22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Initially had difficultly displaying the correct hints of higher or lower |3
+
+### Homework #7
+
+| Name | Apaxiaaan |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description |  |
+| Due Date | 10-Apr-22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 100/100 |
+| Notes | Pretty simple, had to reference some other codes in a couple parts |3
+
+### Homework #8
+
+| Name | Falling apart |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description |  |
+| Due Date | 18-4-22 |
+| Status | Finished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 75/100 |
+| Notes | Couldn't figure out assert function, got runtime error in kattis even though the code works for all inputs I tried |3
+
+### Homework #9
+
+| Name | Report card |
+| :--- | :--- |
+| Name | Connor Thomas |
+| Description | created a report card out of grades given to you  |
+| Due Date | ??? |
+| Status | Unfinished|
+| Location | git@github.com:cjthomas222/CS1-cjthomas.git
+| Self Grade | 80/100 |
+| Notes | Mostly finished, took about 2 weeks to get to the point I'm at, but every problem presents 3 more problems, will likely come back and try to finish it completely |3
+
+
 
 
 
@@ -166,67 +240,18 @@
 | Self Grade | 95/100 |
 | Notes |extremely confusing|3
 
-
-
-
-## Homework
-
-### Homework #1 Hangman
-
-| Name | Value |
+### Lab #10
+| Name | fileio |
 | :--- | :--- |
 | Name | Connor Thomas |
-| Description | Hangman |
-| Due Date | 02-Feb-11 |
-| Status | Finished|
-| Location | git@github.com:cjthomas222/CS1-cjthomas.git
-| Self Grade | 100/100 |
-| Notes | Did everything the file asked me too |3
-
-### Homework #1 
-
-| Name | Triangle |
-| :--- | :--- |
-| Name | Connor Thomas |
-| Description | Calculates area and perimeter of a triangle |
-| Due Date | 02-Feb-27 |
-| Status | Finished|
-| Location | https://github.com/cjthomas222/CS1-cjthomas/blob/main/assignments/stdio/triangle/main.cpp
-| Self Grade | 100/100 |
-| Notes | Program prints accurate area and perimeter of a triangle |3
-
-### Homework #3
-
-| Name | Guess Number |
-| :--- | :--- |
-| Name | Connor Thomas |
-| Description | Gives player 6 tried to guess rand number between 1 & 20 |
-| Due Date | 30-Mar-22 |
-| Status | Finished|
-| Location | git@github.com:cjthomas222/CS1-cjthomas.git
-| Self Grade | 100/100 |
-| Notes | Initially had difficultly displaying the correct hints of higher or lower |3
-
-### Homework #3
-
-| Name | Apaxiaaan |
-| :--- | :--- |
-| Name | Connor Thomas |
-| Description |  |
-| Due Date | 10-Apr-22 |
-| Status | Finished|
-| Location | git@github.com:cjthomas222/CS1-cjthomas.git
-| Self Grade | 100/100 |
-| Notes | Pretty simple, had to reference some other codes in a couple parts |3
-
-### Homework #4
-
-| Name | Falling apart |
-| :--- | :--- |
-| Name | Connor Thomas |
-| Description |  |
-| Due Date | 18-4-22 |
-| Status | Finished|
+| Description | inputs data from one text file and puts it in other file|
+| Due Date | ?? |
+| Status | Unfinished|
 | Location | git@github.com:cjthomas222/CS1-cjthomas.git
 | Self Grade | 75/100 |
-| Notes | Couldn't figure out assert function, got runtime error in kattis even though the code works for all inputs I tried |3
+| Notes |couldn't figure out after week of trying, tried every method I knew but something went wrong every time:/|
+
+
+
+
+
