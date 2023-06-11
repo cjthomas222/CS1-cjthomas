@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/bin/Debug/net6.0/HW5Classes
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/bin/Debug/net6.0/HW5Classes.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/bin/Debug/net6.0/HW5Classes.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/bin/Debug/net6.0/HW5Classes.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/bin/Debug/net6.0/ref/HW5Classes.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/bin/Debug/net6.0/HW5Classes.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/ref/HW5Classes.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw5/hw5classes/obj/Debug/net6.0/HW5Classes.genruntimeconfig.cache
