@@ -1,31 +1,40 @@
 ﻿using System;
 
+
 namespace HW6
 {
-    public class Dog
+    public class People
     {
-        private string name;
-
-        public string Name
+        public string Name { get; set; }
+    }
+    
+    public class Student : People
+    {
+        public void Study()
         {
-            get { return this.name; }
-            set { this.name = value; }
-        }
-
-        public void makeNoise()
-        {
-            Console.WriteLine("Bark");
+            Console.WriteLine($"{Name} is studying.");
         }
     }
-
-    public class HW6Inheritance : Dog
+    
+    public class Teacher : People
     {
-        static void main(string[] args)
+        public void Teach()
         {
-            Dog dog = new Dog();
-            dog.Name = "Fido";
-            Console.WriteLine(dog.Name);
-            dog.makeNoise();
+            Console.WriteLine($"{Name} is teaching.");
         }
-    } 
+    }
+    
+    public class HW6
+    {
+        public static void Main(string[] args)
+        {
+            Student student = new Student();
+            student.Name = "John";
+            student.Study();
+    
+            Teacher teacher = new Teacher();
+            teacher.Name = "Mr. Smith";
+            teacher.Teach();
+        }
+    }
 }
