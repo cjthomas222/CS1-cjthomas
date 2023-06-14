@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/HW7PolyMorphism/HW7PolyMorphism.csproj",
+      "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/HW7PolyMorphism.csproj",
       "projectName": "HW7PolyMorphism",
-      "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/HW7PolyMorphism/HW7PolyMorphism.csproj",
+      "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/HW7PolyMorphism.csproj",
       "packagesPath": "/home/cjthomas/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/HW7PolyMorphism/obj/",
+      "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cjthomas/.nuget/NuGet/NuGet.Config"

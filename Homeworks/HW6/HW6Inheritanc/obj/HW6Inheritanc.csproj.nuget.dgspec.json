@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/HW6Inheritanc/HW6Inheritanc.csproj": {}
+    "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/HW6Inheritanc.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/HW6Inheritanc/HW6Inheritanc.csproj": {
+    "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/HW6Inheritanc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/HW6Inheritanc/HW6Inheritanc.csproj",
+        "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/HW6Inheritanc.csproj",
         "projectName": "HW6Inheritanc",
-        "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/HW6Inheritanc/HW6Inheritanc.csproj",
+        "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/HW6Inheritanc.csproj",
         "packagesPath": "/home/cjthomas/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/HW6Inheritanc/obj/",
+        "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cjthomas/.nuget/NuGet/NuGet.Config"

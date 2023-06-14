@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/PointCalculator/PointCalculator.csproj",
+      "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/PointCalculator.csproj",
       "projectName": "PointCalculator",
-      "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/PointCalculator/PointCalculator.csproj",
+      "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/PointCalculator.csproj",
       "packagesPath": "/home/cjthomas/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/PointCalculator/obj/",
+      "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cjthomas/.nuget/NuGet/NuGet.Config"

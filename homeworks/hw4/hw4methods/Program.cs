@@ -2,7 +2,7 @@
 
 namespace HW4Methods
 {
-    class HW4Methods
+    class HW4
     {
         static void Main(string[] args)
         {

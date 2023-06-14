@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/bin/Debug/net6.0/HW7PolyMorphism
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/bin/Debug/net6.0/HW7PolyMorphism.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/bin/Debug/net6.0/HW7PolyMorphism.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/bin/Debug/net6.0/HW7PolyMorphism.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/bin/Debug/net6.0/ref/HW7PolyMorphism.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/bin/Debug/net6.0/HW7PolyMorphism.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/ref/HW7PolyMorphism.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw7/hw7polymorphism/obj/Debug/net6.0/HW7PolyMorphism.genruntimeconfig.cache

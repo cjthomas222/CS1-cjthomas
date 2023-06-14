@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/bin/Debug/net6.0/PointCalculator
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/bin/Debug/net6.0/PointCalculator.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/bin/Debug/net6.0/PointCalculator.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/bin/Debug/net6.0/PointCalculator.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/bin/Debug/net6.0/ref/PointCalculator.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/bin/Debug/net6.0/PointCalculator.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/ref/PointCalculator.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project2/pointcalculator/obj/Debug/net6.0/PointCalculator.genruntimeconfig.cache

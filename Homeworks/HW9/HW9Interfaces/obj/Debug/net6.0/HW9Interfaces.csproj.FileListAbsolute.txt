@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/bin/Debug/net6.0/HW9Interfaces
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/bin/Debug/net6.0/HW9Interfaces.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/bin/Debug/net6.0/HW9Interfaces.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/bin/Debug/net6.0/HW9Interfaces.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/bin/Debug/net6.0/ref/HW9Interfaces.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/bin/Debug/net6.0/HW9Interfaces.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/ref/HW9Interfaces.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw9/hw9interfaces/obj/Debug/net6.0/HW9Interfaces.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/bin/Debug/net6.0/HW6Inheritanc
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/bin/Debug/net6.0/HW6Inheritanc.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/bin/Debug/net6.0/HW6Inheritanc.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/bin/Debug/net6.0/HW6Inheritanc.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/bin/Debug/net6.0/ref/HW6Inheritanc.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/bin/Debug/net6.0/HW6Inheritanc.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/ref/HW6Inheritanc.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw6/hw6inheritanc/obj/Debug/net6.0/HW6Inheritanc.genruntimeconfig.cache
