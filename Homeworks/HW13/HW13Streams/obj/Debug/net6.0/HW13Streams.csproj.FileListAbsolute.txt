@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/bin/Debug/net6.0/HW13Streams
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/bin/Debug/net6.0/HW13Streams.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/bin/Debug/net6.0/HW13Streams.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/bin/Debug/net6.0/HW13Streams.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/bin/Debug/net6.0/ref/HW13Streams.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/bin/Debug/net6.0/HW13Streams.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/ref/HW13Streams.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw13/hw13streams/obj/Debug/net6.0/HW13Streams.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/bin/Debug/net6.0/HW12Exceptions
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/bin/Debug/net6.0/HW12Exceptions.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/bin/Debug/net6.0/HW12Exceptions.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/bin/Debug/net6.0/HW12Exceptions.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/bin/Debug/net6.0/ref/HW12Exceptions.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/bin/Debug/net6.0/HW12Exceptions.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/ref/HW12Exceptions.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw12/hw12exceptions/obj/Debug/net6.0/HW12Exceptions.genruntimeconfig.cache

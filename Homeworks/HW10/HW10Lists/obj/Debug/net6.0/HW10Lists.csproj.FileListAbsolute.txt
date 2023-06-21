@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/bin/Debug/net6.0/HW10Lists
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/bin/Debug/net6.0/HW10Lists.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/bin/Debug/net6.0/HW10Lists.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/bin/Debug/net6.0/HW10Lists.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/bin/Debug/net6.0/ref/HW10Lists.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/bin/Debug/net6.0/HW10Lists.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/ref/HW10Lists.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/Debug/net6.0/HW10Lists.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/bin/Debug/net6.0/HW11Collections
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/bin/Debug/net6.0/HW11Collections.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/bin/Debug/net6.0/HW11Collections.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/bin/Debug/net6.0/HW11Collections.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/bin/Debug/net6.0/ref/HW11Collections.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/bin/Debug/net6.0/HW11Collections.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/ref/HW11Collections.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw11/hw11collections/obj/Debug/net6.0/HW11Collections.genruntimeconfig.cache

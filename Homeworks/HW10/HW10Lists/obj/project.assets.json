@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/HW10Lists/HW10Lists.csproj",
+      "projectUniqueName": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/HW10Lists.csproj",
       "projectName": "HW10Lists",
-      "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/HW10Lists/HW10Lists.csproj",
+      "projectPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/HW10Lists.csproj",
       "packagesPath": "/home/cjthomas/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/HW10Lists/obj/",
+      "outputPath": "/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw10/hw10lists/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cjthomas/.nuget/NuGet/NuGet.Config"
