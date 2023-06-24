@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/bin/Debug/net6.0/HW4Methods
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/bin/Debug/net6.0/HW4Methods.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/bin/Debug/net6.0/HW4Methods.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/bin/Debug/net6.0/HW4Methods.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/bin/Debug/net6.0/ref/HW4Methods.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/bin/Debug/net6.0/HW4Methods.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/ref/HW4Methods.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw4/hw4methods/obj/Debug/net6.0/HW4Methods.genruntimeconfig.cache
