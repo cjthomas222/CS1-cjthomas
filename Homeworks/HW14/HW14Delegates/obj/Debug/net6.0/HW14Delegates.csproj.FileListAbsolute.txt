@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/bin/Debug/net6.0/HW14Delegates
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/bin/Debug/net6.0/HW14Delegates.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/bin/Debug/net6.0/HW14Delegates.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/bin/Debug/net6.0/HW14Delegates.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/bin/Debug/net6.0/ref/HW14Delegates.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/bin/Debug/net6.0/HW14Delegates.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/ref/HW14Delegates.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw14/hw14delegates/obj/Debug/net6.0/HW14Delegates.genruntimeconfig.cache

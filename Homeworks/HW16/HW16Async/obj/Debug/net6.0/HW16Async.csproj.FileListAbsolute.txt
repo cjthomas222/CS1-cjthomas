@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/bin/Debug/net6.0/HW16Async
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/bin/Debug/net6.0/HW16Async.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/bin/Debug/net6.0/HW16Async.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/bin/Debug/net6.0/HW16Async.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/bin/Debug/net6.0/ref/HW16Async.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/bin/Debug/net6.0/HW16Async.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/ref/HW16Async.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw16/hw16async/obj/Debug/net6.0/HW16Async.genruntimeconfig.cache

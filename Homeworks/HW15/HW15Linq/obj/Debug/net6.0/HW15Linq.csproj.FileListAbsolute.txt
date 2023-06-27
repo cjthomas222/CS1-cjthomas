@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/bin/Debug/net6.0/HW15Linq
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/bin/Debug/net6.0/HW15Linq.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/bin/Debug/net6.0/HW15Linq.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/bin/Debug/net6.0/HW15Linq.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/bin/Debug/net6.0/ref/HW15Linq.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/bin/Debug/net6.0/HW15Linq.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/ref/HW15Linq.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw15/hw15linq/obj/Debug/net6.0/HW15Linq.genruntimeconfig.cache
