@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/bin/Debug/net6.0/CustomerManagement
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/bin/Debug/net6.0/CustomerManagement.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/bin/Debug/net6.0/CustomerManagement.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/bin/Debug/net6.0/CustomerManagement.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/bin/Debug/net6.0/ref/CustomerManagement.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/bin/Debug/net6.0/CustomerManagement.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/ref/CustomerManagement.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/projects/project3/customermanagement/obj/Debug/net6.0/CustomerManagement.genruntimeconfig.cache
