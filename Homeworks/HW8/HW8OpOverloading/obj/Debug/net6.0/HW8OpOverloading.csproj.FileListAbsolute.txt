@@ -1,0 +1,15 @@
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/bin/Debug/net6.0/HW8OpOverloading
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/bin/Debug/net6.0/HW8OpOverloading.deps.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/bin/Debug/net6.0/HW8OpOverloading.runtimeconfig.json
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/bin/Debug/net6.0/HW8OpOverloading.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/bin/Debug/net6.0/ref/HW8OpOverloading.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/bin/Debug/net6.0/HW8OpOverloading.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.csproj.AssemblyReference.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.AssemblyInfoInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.AssemblyInfo.cs
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.csproj.CoreCompileInputs.cache
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/ref/HW8OpOverloading.dll
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.pdb
+/mnt/c/Users/conno/Documents/CS1-cjthomas/homeworks/hw8/hw8opoverloading/obj/Debug/net6.0/HW8OpOverloading.genruntimeconfig.cache
